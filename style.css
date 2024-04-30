@@ -1,0 +1,68 @@
+.pink{
+    width: 100%;
+    height: 40px;
+    background-color: dimgray;
+    margin-bottom: 10px;
+}
+.blue{
+    width: 100%;
+    height: 1100px;
+    background-color: dimgray;
+    margin-bottom: 40px;
+   
+
+}
+.red{
+    width: 26%;
+    height: 150px;
+    background-color: dimgray;
+    float: left;
+    margin-left: 90px;
+   
+}
+.green{
+    width: 26%;
+    height: 150px;
+    background-color: dimgray;
+    float: left;
+    margin-left: 20px;
+   
+}
+.around{
+    width: 26%;
+    height: 150px;
+    background-color: dimgray;
+    float: left;
+    margin-left: 20px;
+    margin-right: 90px;
+
+}
+.Toy{
+    width: 46%;
+    height: 150px;
+    background-color: dimgray;
+    float: left;
+    margin-left: 90px;
+    margin-top: 40px;
+
+}
+.dell{
+    width: 16%;
+    height: 150px;
+    background-color: dimgray;
+    float: left;
+    margin-left: 20px;
+    margin-top: 40px;
+
+}
+.apple{
+    width: 16%;
+    height: 150px;
+    background-color: dimgray;
+    float: left;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+
+
+    
